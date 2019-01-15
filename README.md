@@ -1,5 +1,11 @@
 # keras-yolo3
 
+
+## batch inference
+returned as two dims, how to use return value is not specified
+
+----------------------------------below is origin--------------------------------
+
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 ## Introduction
